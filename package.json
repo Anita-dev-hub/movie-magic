@@ -1,0 +1,23 @@
+{
+  "name": "movie-magic",
+  "version": "1.0.0",
+  "description": "Workshop exercise ExpressJS and Templating",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anita-dev-hub/movie-magic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Anita-dev-hub/movie-magic/issues"
+  },
+  "homepage": "https://github.com/Anita-dev-hub/movie-magic#readme"
+}

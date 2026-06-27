@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
-    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Anita-dev-hub/movie-magic/issues"
   },
-  "homepage": "https://github.com/Anita-dev-hub/movie-magic#readme"
+  "homepage": "https://github.com/Anita-dev-hub/movie-magic#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }

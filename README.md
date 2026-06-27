@@ -9,8 +9,8 @@ Workshop exercise ExpressJS and Templating
 - [x] Setup Handlebars `npm i express-handlebars`
 - [x] Setup static files
 - [x] Render Home Page
-- [ ] Render About Page
-- [ ] Add Layout
+- [x] Render About Page
+- [x] Add Layout
 
 ### Architecture and Dynamic Rendering
 - [ ] Add home controller

@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Anita-dev-hub/movie-magic#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "express-handlebars": "^9.0.1"
   }
 }

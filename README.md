@@ -13,7 +13,7 @@ Workshop exercise ExpressJS and Templating
 - [x] Add Layout
 
 ### Architecture and Dynamic Rendering
-- [ ] Add home controller
+- [x] Add home controller
 - [ ] Add movie data layer
 - [ ] Add movie service
 - [ ] Render single movie on home page

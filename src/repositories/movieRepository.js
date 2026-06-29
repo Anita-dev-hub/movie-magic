@@ -16,3 +16,9 @@ export async function getAllMovies() {
 
     return movies;
 } 
+
+const movieRepository = {
+    getAllMovies
+};
+
+export default movieRepository;

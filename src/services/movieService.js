@@ -5,7 +5,7 @@ import movieRepository from "../repositories/movieRepository.js";
 }
 
 const movieService = {
-    getAll
+    getAll,
 };
 
 export default movieService;

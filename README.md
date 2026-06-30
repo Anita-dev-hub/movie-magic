@@ -25,7 +25,7 @@ Workshop exercise ExpressJS and Templating
 - [x] Show create movie page
 - [x] Add routes
 - [x] Add 404 page
-- [ ] Read body data
+- [x] Read body data
 - [ ] Create movie
   - [ ] Add action
   - [ ] Add service

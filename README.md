@@ -22,9 +22,9 @@ Workshop exercise ExpressJS and Templating
 
 ### Create Movie
 - [x] Add Movie Controller
-- [ ] Show create movie page
-- [ ] Add routes
-- [ ] Add 404 page
+- [x] Show create movie page
+- [x] Add routes
+- [x] Add 404 page
 - [ ] Read body data
 - [ ] Create movie
   - [ ] Add action

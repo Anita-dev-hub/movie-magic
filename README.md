@@ -21,7 +21,7 @@ Workshop exercise ExpressJS and Templating
 - [x] Show no movies screen
 
 ### Create Movie
-- [ ] Add Movie Controller
+- [x] Add Movie Controller
 - [ ] Show create movie page
 - [ ] Add routes
 - [ ] Add 404 page

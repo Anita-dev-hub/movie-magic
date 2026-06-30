@@ -18,7 +18,7 @@ Workshop exercise ExpressJS and Templating
 - [x] Add movie service
 - [x] Render single movie on home page
 - [x] Render all movies on home page
-- [ ] Show no movies screen
+- [x] Show no movies screen
 
 ### Create Movie
 - [ ] Add Movie Controller
